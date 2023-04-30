@@ -1,0 +1,23 @@
+export const Colors = {
+  yellow600: '#D09600',
+  yellow400: '#FFC116',
+  yellow100: '#FFD978',
+  brandgradient:
+    'linear-gradient(224deg, #3deb1d 8.17%, #36cc1a 54.56%, #238710 100%);',
+  brand600: '#FF439D',
+  brand500: '#36cc1a',
+  brand400: '#FF92C6',
+  black: '#000',
+  gray900: '#030303',
+  gray850: '#0F1214',
+  gray800: '#14191E',
+  gray700: '#212830',
+  gray600: '#2A323E',
+  gray500: '#4A5162',
+  gray400: '#7A7F8D',
+  gray200: '#9FA5B6',
+  gray100: '#CDD0D9',
+  gray050: '#FAFAFA',
+  gray000: '#FAFAFA',
+  white: '#FFF',
+};
